@@ -19,6 +19,6 @@ It is a comprehensive, efficient, visual, operable single distributed transactio
 
 **Complex scenarios**: Support RPC nested invocation transactions
 
-![图片](https://github.com/outman1234/dragonfly/blob/master/doc/1.jpg)
-![图片](https://github.com/outman1234/dragonfly/blob/master/doc/2.jpg)
-![图片](https://github.com/outman1234/dragonfly/blob/master/doc/3.jpg)
+![图片](https://github.com/outman1234/dragonfly/blob/master/doc/1.png)
+![图片](https://github.com/outman1234/dragonfly/blob/master/doc/2.png)
+![图片](https://github.com/outman1234/dragonfly/blob/master/doc/3.png)
