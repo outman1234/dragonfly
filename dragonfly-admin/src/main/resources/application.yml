@@ -1,0 +1,27 @@
+server:
+  port: 8081
+
+# Spring
+spring:
+  mail:
+    port: 465
+    host: smtp.exmail.qq.com
+    username: tovision@sztovision.com
+    password: aCSgBVfGaeXZNNvo
+    properties:
+      mail:
+        smtp:
+          auth: true
+          socketFactory:
+            port: 465
+            class: javax.net.ssl.SSLSocketFactory
+            fallback: false
+          starttls:
+            enable: true
+            required: true
+
+dragonfly:
+  repository:
+    mongo:
+      host: 127.0.0.1
+      port: 27017

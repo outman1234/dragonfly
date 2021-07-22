@@ -1,0 +1,4 @@
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=\
+  org.outman.dragonfly.repository.mongo.cx.MongodbConfig,\
+  org.outman.dragonfly.repository.mongo.cx.MongoDataRepository,\
+  org.outman.dragonfly.repository.mongo.config.MongoProperties
